@@ -14,6 +14,8 @@ Key contributions of our work include:
 * **Database Adaptation:** We developed a methodology to adapt and merge existing emotional speech databases (RAVDESS, TESS, SAVEE, CREMA-D) to create realistic and challenging audio mixtures for training and testing.
 * **Multilingual Validation:** The system's robustness was validated by fine-tuning and testing it on a new Spanish-language dataset recorded in Peru, demonstrating its adaptability to different languages and real-world conditions.
 
+The fine-tuning process was carried out using the [SpeechBrain](https://arxiv.org/abs/2106.04624) toolkit, applying its default hyperparameters. This optimization methodology is supported by the work of [Subakan et al.](https://ieeexplore.ieee.org/document/9902821) on model adaptability.
+
 The code and resources provided here allow for the replication of our experiments and serve as a foundation for future research in robust human-robot interaction.
 
 **Link to resources:** [https://drive.google.com/drive/folders/114nXHm5l5vQjDKp_OhFTlY6m62NuulTn?usp=sharing](https://drive.google.com/drive/folders/114nXHm5l5vQjDKp_OhFTlY6m62NuulTn?usp=sharing)
