@@ -16,6 +16,6 @@ Key contributions of our work include:
 
 The fine-tuning process was carried out using the [SpeechBrain](https://arxiv.org/abs/2106.04624) toolkit, applying its default hyperparameters. This optimization methodology is supported by the work of [Subakan et al.](https://ieeexplore.ieee.org/document/9902821) on model adaptability.
 
-The code and resources provided here allow for the replication of our experiments and serve as a foundation for future research in robust human-robot interaction.
+The code and resources provided here allow for the replication of our experiments and serve as a foundation for future research in robust human-robot interaction. The complete dataset and all model checkpoints are available for download:
 
-**Link to resources:** [https://drive.google.com/drive/folders/114nXHm5l5vQjDKp_OhFTlY6m62NuulTn?usp=sharing](https://drive.google.com/drive/folders/114nXHm5l5vQjDKp_OhFTlY6m62NuulTn?usp=sharing)
+**[Download Dataset & Checkpoints (Google Drive)](https://drive.google.com/drive/folders/114nXHm5l5vQjDKp_OhFTlY6m62NuulTn?usp=sharing)**
